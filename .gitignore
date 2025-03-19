@@ -1,0 +1,5 @@
+# Arquivos de ambiente
+.env
+
+# Todos os arquivos JSON
+*.json
