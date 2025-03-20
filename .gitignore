@@ -1,5 +1,6 @@
-# Arquivos de ambiente
-.env
-
-# Todos os arquivos JSON
-*.json
+/data/
+/config/
+/handlers/__pycache__/
+handlers/__init__.py
+__pycache__/
+*json
